@@ -1,0 +1,12 @@
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+.rotate-180 {
+  transform: rotate(180deg);
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
